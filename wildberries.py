@@ -198,6 +198,8 @@ if __name__ == '__main__':
     """данные для теста. собераем товар с раздела велосипеды в ценовой категории от 1тыс, до 100тыс, со скидкой 10%"""
     # url = 'https://www.wildberries.ru/catalog/sport/vidy-sporta/velosport/velosipedy'
 
+    print('произошла ошибка данных при вводе, проверте правильность введенных данных,\n'
+          'Перезапуск...')
 
     # url = 'https://www.wildberries.ru/catalog/elektronika/planshety'  # сюда вставляем вашу ссылку на категорию
     # low_price = 10000  # нижний порог цены
